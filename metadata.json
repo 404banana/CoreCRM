@@ -1,0 +1,5 @@
+{
+  "name": "CoreCRM Tablet",
+  "description": "A robust, offline-first CRM application designed for external sales representatives, optimized for tablet displays with comprehensive customer, order, visit, and negotiation management.",
+  "requestFramePermissions": []
+}
